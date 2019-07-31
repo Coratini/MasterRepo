@@ -48,5 +48,5 @@ Não faz idéia do que é Stash ou de como fazer isso? Se liga aqui então:</br>
     
     ACEITA ESSE PULL REQUEST AI LEONTHANNATHAN !!! "TO CERTO" (PRIMEIRA PULL REQUEST A GENTE NUCA ESQUECE)
 
-    TENTANDO NOVAMENTE EM 3,2,1..
+    TENTANDO NOVAMENTE EM 3,2,1..Agora deve ir
     
